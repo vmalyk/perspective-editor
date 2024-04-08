@@ -45,7 +45,6 @@ plugin_pimcore_perspectiveeditor_view_type: "Element Type"
 plugin_pimcore_perspectiveeditor_icon_selection: "Icon Selection"
 plugin_pimcore_perspectiveeditor_view_expanded: "Expanded"
 plugin_pimcore_perspectiveeditor_view_hidden: "Hidden"
-
 plugin_pimcore_perspectiveeditor_view_editor: "View Editor"
 plugin_pimcore_perspectiveeditor_views: "Views"
 plugin_pimcore_perspectiveeditor_all_content_will_be_lost: "All content will be lost"
@@ -160,9 +159,7 @@ plugin_pimcore_perspectiveeditor_menu_extras_items_systemtools_items_fileexplore
 plugin_pimcore_perspectiveeditor_menu_extras_items_systemtools_items_opcache: "PHP OPcache Status"
 plugin_pimcore_perspectiveeditor_menu_extras_items_systemtools_items_phpinfo: "PHP Info"
 plugin_pimcore_perspectiveeditor_menu_extras_items_systemtools_items_requirements: "System-Requirements Check"
-plugin_pimcore_perspectiveeditor_menu_extras_items_systemtools_items_serverinfo: "Server Info"
 plugin_pimcore_perspectiveeditor_menu_extras_items_translations: "Translations"
-
 plugin_pimcore_perspectiveeditor_menu_marketing_hidden: "Hide Markeing Menu"
 plugin_pimcore_perspectiveeditor_menu_marketing_items_reports: "Reports"
 plugin_pimcore_perspectiveeditor_menu_marketing_items_seo_hidden: "Hide SEO Menu"
@@ -171,7 +168,6 @@ plugin_pimcore_perspectiveeditor_menu_marketing_items_seo_items_httperrors: "HTT
 plugin_pimcore_perspectiveeditor_menu_marketing_items_seo_items_robots: "Robots.txt"
 plugin_pimcore_perspectiveeditor_menu_marketing_items_tagmanagement: "Tag & Snippet Management"
 plugin_pimcore_perspectiveeditor_menu_marketing_items_targeting: "Personalization / Targeting"
-
 plugin_pimcore_perspectiveeditor_menu_settings_hidden: "Hide Settings Menu"
 plugin_pimcore_perspectiveeditor_menu_settings_items_adminTranslations: "Admin Translations"
 plugin_pimcore_perspectiveeditor_menu_settings_items_cache_hidden: "Hide Cache Menu"
@@ -203,12 +199,10 @@ plugin_pimcore_perspectiveeditor_menu_settings_items_users_items_users: "Users"
 plugin_pimcore_perspectiveeditor_menu_settings_items_web2print: "Web-to-Print Settings"
 plugin_pimcore_perspectiveeditor_menu_settings_items_website: "Website Settings"
 plugin_pimcore_perspectiveeditor_menu_settings_items_perspectiveEditor: "Perspective Editor"
-
 plugin_pimcore_perspectiveeditor_menu_search_hidden: "Hide Search Menu"
 plugin_pimcore_perspectiveeditor_menu_search_items_assets: "Assets"
 plugin_pimcore_perspectiveeditor_menu_search_items_documents: "Documents"
 plugin_pimcore_perspectiveeditor_menu_search_items_objects: "Objects"
 plugin_pimcore_perspectiveeditor_menu_search_items_quickSearch: "Quick Search"
-
 plugin_pimcore_perspectiveeditor_datahub: "Data-Hub"
 plugin_pimcore_perspectiveeditor_menu_datahub_hidden: "Hide Data-Hub"
