@@ -129,7 +129,6 @@ pimcore.bundle.perspectiveeditor.MenuItemPermissionHelper = class {
                 'items.systemtools.items.phpinfo',
                 'items.systemtools.items.opcache',
                 'items.systemtools.items.requirements',
-                'items.systemtools.items.serverinfo',
                 'items.systemtools.items.database',
                 'items.systemtools.items.fileexplorer'
             ],
